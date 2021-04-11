@@ -1,4 +1,4 @@
-# Fine-Grained-Synchronization-
+# Fine-Grained Synchronization
 
 Multithreads with locks
 
